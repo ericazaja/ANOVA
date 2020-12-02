@@ -13,11 +13,11 @@
 
 ### Tutorial learning objectives:
 
-##### - How to formulate a clear research question
-##### - How to tidy your data 
-##### - How to run a simple one-way ANOVA with `aov` and `lm`
-##### - How to read and interpret ANOVA outputs
-##### - How to communicate and visualise your results
+#### - How to formulate a clear research question
+#### - How to tidy your data 
+#### - How to run a simple one-way ANOVA with `aov` and `lm`
+#### - How to read and interpret ANOVA outputs
+#### - How to communicate and visualise your results
 
 
 ******
