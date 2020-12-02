@@ -9,7 +9,7 @@
 
 ********
 
-##### **This repository contains the data files necessary to complete the tutorial.**
+### **This repository contains the [data](https://github.com/ericazaja/ANOVA/blob/main/frogs_messy_data.csv) necessary to complete the tutorial.**
 
 ### Tutorial learning objectives:
 
@@ -19,7 +19,11 @@
 #### - How to read and interpret ANOVA outputs
 #### - How to communicate and visualise your results
 
-
 ******
 
 #### I would love to hear your feedback on the tutorial! If you have any comments, questions or doubts about completing this tutorial, please contact me on ericazaja@gmail.com. 
+
+*******
+
+#### Check out more [Coding Club Tutorials](https://ourcodingclub.github.io/tutorials.html).
+
